@@ -1,5 +1,5 @@
 {
-  "score": 20.0,
+  "score": 55.0,
   "tests": [
     {
       "test": 1,
@@ -23,37 +23,37 @@
     },
     {
       "test": 5,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 6,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 7,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 8,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 9,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 10,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 11,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
